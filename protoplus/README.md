@@ -2,8 +2,7 @@
 
 A quick reimplementation of the now-unavailable Perfboard+ project.
 
-![Pic of perfboard](/screenshot.png)
-
+![Pic of perfboard](./protoplus_render.png)
 ## References
 
 - First version: [kickstarter.com/projects/658903329/perf-the-perfboard-reinvented](https://www.kickstarter.com/projects/658903329/perf-the-perfboard-reinvented)
