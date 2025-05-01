@@ -2,6 +2,11 @@
 
 ProtoKit is an open-source collection of protoboards, stripboards, breakout boards and other useful widgets, designed in KiCad for rapid electronics prototyping and customization.
 
+## Ordering Resources
+
+- [JLC - The Ultimate Guide to PCB Panelization: Tools and Techniques](https://jlcpcb.com/blog/the-ultimate-guide-to-pcb-panelization:-tools-and-techniques)
+- [JLC - Technical Guidance: V-Cut Panelization Standards](https://jlcpcb.com/blog/technical-guidance-v-cut-panelization-standards)
+
 ## Future Ideas
 
 - Adafruit PermaProto style
