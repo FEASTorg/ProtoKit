@@ -271,7 +271,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "outputs-oneside/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
