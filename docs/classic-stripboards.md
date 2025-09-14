@@ -40,20 +40,20 @@ SB_<R>x<C>_<P>_[<O1><SL1>,...]_R<x>
 
 - https://a.co/d/dxrGWNh
 
-![alt text](strip_example2.jpg)
+![alt text](assets/images/strip_example2.jpg)
 
 **SB_15x35_254_1H0_70V5_1H0_35V3_35V2**
 
 - https://a.co/d/epf0U3b
 
-![alt text](strip_example1.jpg)
+![alt text](assets/images/strip_example1.jpg)
 
 **SB_24x56_254_24H56**
 
 - https://a.co/d/6tkBWWo
 
-![alt text](strip_example3.png)
+![alt text](assets/images/strip_example3.png)
 
 **SB_32x48_254_4H48_192V5_96V2_4H48**
 
-![alt text](strip_example4.jpg)
+![alt text](assets/images/strip_example4.jpg)

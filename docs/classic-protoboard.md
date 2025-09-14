@@ -35,5 +35,3 @@ PB_18_24_PR0
 ## Similar Products
 
 [Amazon.ca](https://a.co/d/iiFXcPh)
-
-![similar product](./images/similar_product.jpg)
